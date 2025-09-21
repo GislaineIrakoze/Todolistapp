@@ -1,0 +1,13 @@
+[ { "id": 1, "name": "Checkers", "type": "Board Game", "image": "checkers.jpg" },
+
+{ "id": 2, "name": "Chess", "type": "Board Game", "image": "chess.jpg" },
+
+{ "id": 3, "name": "Ludo", "type": "Family Game", "image": "ludo.jpg" },
+
+{ "id": 4, "name": "Billiard", "type": "Table Game", "image": "billiard.jpg" },
+
+{ "id": 5, "name": "Darts", "type": "Pub Game", "image": "dart.jpg" },
+
+{ "id": 6, "name": "Snakes and Ladders", "type": "Board Game", "image": "snake.and.ladders.jpg" },
+
+{ "id": 7, "name": "Poker", "type": "Card Game", "image": "poker.jpg" } ]
