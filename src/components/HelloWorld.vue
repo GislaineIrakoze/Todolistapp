@@ -75,8 +75,8 @@ ul {
 }
 
 li {
-  background-color: #f5f5f5;
-  color: #0f172a; 
+  background-color: #e0f2fe;
+  color: #0f172a;
   margin: 10px 0;
   padding: 10px;
   border-radius: 5px;
