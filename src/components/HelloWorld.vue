@@ -75,7 +75,7 @@ ul {
 }
 
 li {
-  background-color: #f0f8ff;
+background-color: #f5f5f5;
   margin: 10px 0;
   padding: 10px;
   border-radius: 5px;
